@@ -1,16 +1,16 @@
-## COLLEGE MANAGEMENT SYSTEM
+# COLLEGE MANAGEMENT SYSTEM
 
 The College Management System Project in Java is a comprehensive Java project that facilitates the management of colleges and universities. It includes features such as adding new students and teachers, tracking their enrollment and leaving details, managing student marks, fee structures, and utilities such as notepad,calculator, and web browser. The system also has an update feature to modify the details of students and teachers.This application provides a user-friendly interface that makes it easy for college staff to manage all college operations in one place, saving time and effort. It can help streamline administrative tasks and increase efficiency in managing college operations.
 
-## Here are some of the key features of college management system:
+# Here are some of the key features of college management system:
 
-# Student Management
+## Student Management
 
-# Teacher Management
+## Teacher Management
 
-# Fees Management
+## Fees Management
 
-# Exam Management
+## Exam Management
 
 ## How it works
 
